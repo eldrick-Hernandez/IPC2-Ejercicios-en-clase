@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {}
+    "C:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {
+    "C:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
         "projectName": "ApiAvlSimulacion",
-        "projectPath": "c:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\ApiAvlSimulacion.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ipc ejercicios\\Actividad en clase\\ApiAvlSimulacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
